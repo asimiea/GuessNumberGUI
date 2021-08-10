@@ -1,1 +1,1 @@
-A simple javafx game where the objective is to guess the randomly generated number
+A simple javafx game where the objective is to guess the randomly generated number.
